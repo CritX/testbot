@@ -9,3 +9,4 @@ To get this running, add a file in the directory of the bot named token.json. Th
   "token": "your-token"
 }
 ```
+`your-token` should be replaced with your bot token.
