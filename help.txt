@@ -1,0 +1,12 @@
+Hello! I'm <@743344837012750377>.
+
+Here are all of my commands:
+!help: Get a list of all commands.
+!randombtd [option]: Generate a random map and game mode to play on for Bloons TD 6. If option is "standard", it will choose standard game modes only. If option is "chimps", it will choose a map to play CHIMPS on.
+!publicshame (user): Publicly shame someone. This lasts for 10 seconds.
+!entertheroom: Enter the room. Oh hi Mark! (Please note that everything typed in the channel will be visible in the room until you leave)
+!leavetheroom: Leave the room.
+!colorme (color): Give yourself a color (formatted in hexadecimal, no symbols at the beginning). This will always override your current color.
+!tetris: If MMMMMMMMMMMMM (onlymx13) is in the server, tell him to play Tetris.
+!latin: If DTFPS is in the server, tell him to learn Latin.
+!bruh: bruhball
